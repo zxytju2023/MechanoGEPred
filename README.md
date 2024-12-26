@@ -3,10 +3,15 @@ This repository contains a trained machine learning model that predicts the elas
 
 ## Dependencies
 To run the model, you will need Python 3.11.10 and the following libraries:
+
 scikit-learn(1.5.2)
+
 scipy(1.14.1)
+
 joblib(1.4.2)
+
 numpy(2.0.2)
+
 pandas(2.2.3)
 
 ## Usage
