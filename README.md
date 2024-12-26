@@ -15,7 +15,7 @@ numpy(2.0.2)
 pandas(2.2.3)
 
 ## Usage
-The detailed usage can be found in the example file:.
+The detailed usage can be found in the example file: predict_example.ipynb.
 
 ## Citation
 
