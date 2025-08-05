@@ -1,5 +1,6 @@
 # MechanoGEPred
 ![label1](https://img.shields.io/badge/license-MIT-green)
+
 This repository contains a computational model that predicts the elastic modulus of cells based on mechanosensitive genes expression. The model was trained using gradient boosting algorithm and is stored in a joblib format for easy deployment.
 
 ## 📦 Repository Structure
@@ -18,7 +19,7 @@ MechanoGEPred/
 │   ├── model_training.ipynb    # Model development workflow
 │   └── tutorial.ipynb          # Comprehensive usage tutorial
 |
-|—— output/
+|—— output/                     # Predictions output
 |   └── TCGA_COAD_predictions.csv # Predictions for TCGA COAD dataset
 │
 ├── LICENSE
